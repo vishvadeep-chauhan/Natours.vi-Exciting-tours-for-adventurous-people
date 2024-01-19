@@ -175,7 +175,7 @@ body {
   z-index: -1;
   transition: all 0.4s;
 }
-
+ 
 .btn--white::after {
   background-color: #fff;
 }
